@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/charlesgreen/gsm/internal/api/routes"
-	"github.com/charlesgreen/gsm/internal/storage"
+	"github.com/coxley/gsm/internal/api/routes"
+	"github.com/coxley/gsm/internal/storage"
 )
 
 func main() {

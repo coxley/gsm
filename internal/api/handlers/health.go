@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/charlesgreen/gsm/internal/models"
+	"github.com/coxley/gsm/internal/models"
 )
 
 // Version represents the current version of the GSM emulator.

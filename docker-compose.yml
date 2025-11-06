@@ -27,7 +27,7 @@ services:
   # Alternative service using pre-built multi-platform image from Docker Hub
   # To use this instead: docker-compose up gsm-emulator
   gsm-emulator:
-    image: charlesgreen/gsm:latest
+    image: coxley/gsm:latest
     ports:
       - "8085:8085"
     environment:

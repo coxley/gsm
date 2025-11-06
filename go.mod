@@ -1,4 +1,4 @@
-module github.com/charlesgreen/gsm
+module github.com/coxley/gsm
 
 go 1.23.0
 

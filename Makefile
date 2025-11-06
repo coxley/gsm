@@ -5,7 +5,7 @@ BINARY_NAME=gsm-server
 BINARY_PATH=bin/$(BINARY_NAME)
 MAIN_PATH=cmd/server/main.go
 DOCKER_IMAGE=gsm-emulator
-DOCKER_REGISTRY=charlesgreen
+DOCKER_REGISTRY=coxley
 GO_FILES=$(shell find . -name '*.go' -type f -not -path './vendor/*' -not -path './.git/*')
 
 # Go commands

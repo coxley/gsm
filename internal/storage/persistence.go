@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/charlesgreen/gsm/internal/models"
+	"github.com/coxley/gsm/internal/models"
 )
 
 // PersistentStorage provides file-backed storage for secrets and versions.

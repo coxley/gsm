@@ -4,7 +4,7 @@ package storage
 import (
 	"context"
 	"errors"
-	"github.com/charlesgreen/gsm/internal/models"
+	"github.com/coxley/gsm/internal/models"
 )
 
 var (

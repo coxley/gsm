@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/charlesgreen/gsm/internal/models"
+	"github.com/coxley/gsm/internal/models"
 )
 
 // example structure to verify we don't normalize user-specified field naming, while

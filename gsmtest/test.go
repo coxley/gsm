@@ -14,8 +14,8 @@ import (
 
 	secretmanager "cloud.google.com/go/secretmanager/apiv1"
 	"github.com/akutz/memconn"
-	"github.com/charlesgreen/gsm/internal/api/routes"
-	"github.com/charlesgreen/gsm/internal/storage"
+	"github.com/coxley/gsm/internal/api/routes"
+	"github.com/coxley/gsm/internal/storage"
 	"google.golang.org/api/option"
 )
 

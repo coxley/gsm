@@ -6,9 +6,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/charlesgreen/gsm/internal/api/handlers"
-	"github.com/charlesgreen/gsm/internal/api/middleware"
-	"github.com/charlesgreen/gsm/internal/storage"
+	"github.com/coxley/gsm/internal/api/handlers"
+	"github.com/coxley/gsm/internal/api/middleware"
+	"github.com/coxley/gsm/internal/storage"
 )
 
 // SetupRoutes configures and returns an HTTP router with all API endpoints and middleware.

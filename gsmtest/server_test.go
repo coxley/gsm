@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"cloud.google.com/go/secretmanager/apiv1/secretmanagerpb"
-	"github.com/charlesgreen/gsm/gsmtest"
+	"github.com/coxley/gsm/gsmtest"
 )
 
 func TestTCP(t *testing.T) {

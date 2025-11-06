@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/charlesgreen/gsm/internal/models"
+	"github.com/coxley/gsm/internal/models"
 )
 
 // MemoryStorage provides in-memory storage for secrets and versions with thread safety.

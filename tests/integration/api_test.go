@@ -8,9 +8,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/charlesgreen/gsm/internal/api/routes"
-	"github.com/charlesgreen/gsm/internal/models"
-	"github.com/charlesgreen/gsm/internal/storage"
+	"github.com/coxley/gsm/internal/api/routes"
+	"github.com/coxley/gsm/internal/models"
+	"github.com/coxley/gsm/internal/storage"
 )
 
 func TestHealthEndpoint(t *testing.T) {

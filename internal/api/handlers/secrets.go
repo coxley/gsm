@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/charlesgreen/gsm/internal/models"
-	"github.com/charlesgreen/gsm/internal/storage"
+	"github.com/coxley/gsm/internal/models"
+	"github.com/coxley/gsm/internal/storage"
 )
 
 // SecretsHandler handles HTTP requests for secret operations.
